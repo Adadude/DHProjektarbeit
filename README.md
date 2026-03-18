@@ -1,5 +1,5 @@
 # DHProjektarbeit
-Analyse zur Farbaesthetik und emotionalen Wahrnehmung in Filmtrailern von Toy Story
+Analyse zur Farbaesthetik und emotionalen Wahrnehmung in Filmtrailern von Toy Story.
 
 ## Videos
 Die Video-Dateien sind zu groß für das Repository. Daher verlasse ich die Links zu den jeweiligen Trailer-Videos:
