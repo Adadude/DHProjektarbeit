@@ -13,3 +13,13 @@ Die Video-Dateien sind zu groß für das Repository. Daher verlasse ich die Link
 -Toy Story 4: https://drive.google.com/file/d/1OCowHvn2t4kntIp471Y7B9UOTK7FHZOS/view?usp=drive_link
 
 -Toy Story 5: https://drive.google.com/file/d/1wbTsC9ZSFIyNErl0Snvswo940q8vQuxG/view?usp=drive_link
+
+## src
+Die Datei **src** enthält alle Klassen, die für die Analyse notwendig waren.
+
+## Output
+**Output** enthält die Streudiagramme für jeden Trailer, die durch die verwendeten Klassen in `main.py` erstellt wurden.
+
+## Responses
+**Responses** enthält alle CSV-Dateien mit den emotionalen Bewertungen der Szenen.
+
