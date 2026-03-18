@@ -3,6 +3,7 @@ Analyse zur Farbaesthetik und emotionalen Wahrnehmung in Filmtrailern von Toy St
 
 ## Videos
 Die Video-Dateien sind zu groß für das Repository. Daher verlasse ich die Links zu den jeweiligen Videos:
+
 -Toy Story 1: https://drive.google.com/file/d/1ifFjKFXOhOsBShupEqkQrMlXHbxY1798/view?usp=drive_link
 -Toy Story 2: https://drive.google.com/file/d/1Xc306btbp9eA-F4792x9Hwz0nrcIhW88/view?usp=drive_link
 -Toy Story 3: https://drive.google.com/file/d/1cA6eJG__wI5BSRH-RltxBPiwU7iyQibg/view?usp=drive_link
