@@ -16,7 +16,7 @@ Die Video-Dateien sind zu groß für das Repository. Daher verlasse ich die Link
 -Toy Story 5: https://drive.google.com/file/d/1wbTsC9ZSFIyNErl0Snvswo940q8vQuxG/view?usp=sharing
 
 ## src
-Die Datei **src** enthält alle Klassen, die für die Analyse notwendig waren.
+Die Datei **src** enthält alle Klassen, die für die Analyse verwendet wurden.
 
 ## Output
 **Output** enthält die Streudiagramme für jeden Trailer, die durch die verwendeten Klassen in `main.py` erstellt wurden.
